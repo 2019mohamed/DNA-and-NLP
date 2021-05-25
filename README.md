@@ -1,2 +1,2 @@
 # DNA-and-NLP
-DNA classification with one hot vector and semantic embedding 
+DNA classification with one hot vector and semantic embedding and many ...
